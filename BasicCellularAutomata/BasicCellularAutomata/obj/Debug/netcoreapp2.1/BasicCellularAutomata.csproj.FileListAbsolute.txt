@@ -1,0 +1,11 @@
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\obj\Debug\netcoreapp2.1\BasicCellularAutomata.csprojAssemblyReference.cache
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\obj\Debug\netcoreapp2.1\BasicCellularAutomata.csproj.CoreCompileInputs.cache
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\obj\Debug\netcoreapp2.1\BasicCellularAutomata.AssemblyInfoInputs.cache
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\obj\Debug\netcoreapp2.1\BasicCellularAutomata.AssemblyInfo.cs
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\bin\Debug\netcoreapp2.1\BasicCellularAutomata.deps.json
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\bin\Debug\netcoreapp2.1\BasicCellularAutomata.runtimeconfig.json
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\bin\Debug\netcoreapp2.1\BasicCellularAutomata.runtimeconfig.dev.json
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\bin\Debug\netcoreapp2.1\BasicCellularAutomata.dll
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\bin\Debug\netcoreapp2.1\BasicCellularAutomata.pdb
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\obj\Debug\netcoreapp2.1\BasicCellularAutomata.dll
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\BasicCellularAutomata\BasicCellularAutomata\obj\Debug\netcoreapp2.1\BasicCellularAutomata.pdb
